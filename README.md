@@ -55,7 +55,7 @@ static/images/<YOUR-USERNAME>.png
 
 
 ## 2. Add your profile information
-### You also go [profile](https://github.com/ossamamehmood/Hacktoberfest2023/contributor.md)
+### You also go [profile](https://github.com/sharma62/Hacktoberfest2023/blob/main/contributor.md)
 
 
 Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
